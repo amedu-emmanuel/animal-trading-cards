@@ -1,0 +1,46 @@
+.card{
+   
+    box-sizing: border-box;
+    box-shadow: 10px 10px 5px rgb(233, 231, 231);
+    margin: 30px auto;
+    padding: 15px; 
+    border: solid;
+    width: 330px;
+    border-color: rgb(233, 231, 231);
+    
+}
+
+h3{
+    font-weight: bold;
+}
+
+li{
+    list-style-type: none;
+}
+
+.main-body{
+    border: solid;
+    border-color: rgb(233, 231, 231);
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.change-font{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.lists{
+    padding: 0px;
+}
+
+.image{
+    width: 400px;
+    height: 220px;
+    display: flex;
+    padding-bottom: 10px;
+}
